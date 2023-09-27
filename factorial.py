@@ -1,4 +1,4 @@
-# factorial.py 
+# factorial.pyd 
 
 import time   
 
