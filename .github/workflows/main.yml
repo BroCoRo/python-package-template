@@ -18,6 +18,4 @@ jobs:
       run: |
         python -m pip install --upgrade pip
         pip install pylint
-    - name: ./src/python_package
-      run: |
         python lint.py
